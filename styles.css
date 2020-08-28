@@ -41,6 +41,11 @@ h1 {
     margin-top: 15px;
     margin-bottom: 15px;
 }
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px orange solid;
+    outline: 1px black solid;
+}
 footer {
     text-align: center;
     font-size: 1rem;
